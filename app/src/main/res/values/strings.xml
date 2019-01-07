@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveData Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="random_number">Random Number</string>
+</resources>
